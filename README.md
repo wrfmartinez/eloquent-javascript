@@ -6,3 +6,4 @@ Organized by section, based on appearance in the chapters of the book, Here are 
 
 #### Program Structure
   - [Looping a Triangle](./program_structure/looping_a_triangle.js)
+  - [FizzBuzz](./program_structure/fizzbuzz.js)
