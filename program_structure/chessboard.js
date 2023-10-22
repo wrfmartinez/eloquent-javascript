@@ -17,10 +17,11 @@ When you have a program that generates this pattern, define a binding size = 8 a
 
 // 1. Create a binding for the grid
 let board = "";
+let size = 8;
 // 2. Write a loop for the y axis or rows
-for (let y = 0; y < 8; y++) {
+for (let y = 0; y < size; y++) {
   // 3. Write a second loop for the x axis or columns
-  for (let x = 0; x < 8; x++) {
+  for (let x = 0; x < size; x++) {
     // 4. If the sum of the x axis and y axis is even then add a space, if not add a "#"
     if ((x + y) % 2 == 0) {
       board += " ";
