@@ -8,3 +8,8 @@ Organized by section, based on appearance in the chapters of the book, Here are 
   - [Looping a Triangle](./program_structure/looping_a_triangle.js)
   - [FizzBuzz](./program_structure/fizzbuzz.js)
   - [Chessboard](./program_structure/chessboard.js)
+
+#### Functions
+  - [Minimum](./functions/minimum.js)
+  - [Recursion](./functions/recursion.js)
+  - [Bean Counting](./functions/bean_counting.js)
