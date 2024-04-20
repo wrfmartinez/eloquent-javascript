@@ -16,9 +16,10 @@ When you have a program that generates this pattern, define a binding size = 8 a
 */
 
 let board = '';
+const size = 20
 
-for (let y = 0; y < 8; y++) {
-  for (let x = 1; x <= 8; x++) {
+for (let y = 0; y < size; y++) {
+  for (let x = 1; x <= size; x++) {
     // If the x axis iteration is odd then add a ' ' to the grid string
     if (x % 2 !== 0) {
       board += ' ';
@@ -37,4 +38,4 @@ for (let y = 0; y < 8; y++) {
   }
 }
 
-console.log(grid);
+console.log(board);
