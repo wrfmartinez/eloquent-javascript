@@ -11,7 +11,7 @@ Write a loop that makes seven calls to console.log to output the following trian
 */
 
 for (let i = 1; i <= 7; i++) {
-  // Check the index for the current iteration then console.log() the appopriate amount of '#'s
+  // Check the index for the current iteration then console.log() the appropriate amount of '#'s
   if (i === 1) {
     console.log('#');
   } else if (i === 2) {
