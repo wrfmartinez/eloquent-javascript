@@ -5,6 +5,6 @@ In pursuit of strengthening the fundamentals of programming and a deep dive into
 Organized by section, based on appearance in the chapters of the book, Here are solutions to exercises and projects that I've completed:
 
 #### Program Structure
-  - [Looping a Triangle](./ch1-program-structure/loopingATriangle.js)
-  - [FizzBuzz](./ch1-program-structure/fizzBuzz.js)
-  - [Chessboard](./ch1-program-structure/chessboard.js)
+  - [Looping a Triangle](./exercises/01-program-structure/loopingATriangle.js)
+  - [FizzBuzz](./exercises/01-program-structure/fizzBuzz.js)
+  - [Chessboard](./exercises/01-program-structure/chessboard.js)
